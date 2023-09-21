@@ -5,11 +5,13 @@
         "port": {
             "type": "number",
             "label": "Port",
+            "sm": 2,
             "newLine": true
         },
         "mongodb": {
             "type": "text",
             "label": "MongoDB Connection String",
+            "sm": 2,
             "newLine": true
         }
     }
