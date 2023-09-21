@@ -1,0 +1,5 @@
+{
+    "alexa-legacy adapter settings": "Adapter settings for alexa-legacy",
+    "port": "Port",
+    "mongodb": "MongoDB Connection String"
+}

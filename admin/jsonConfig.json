@@ -1,0 +1,16 @@
+{
+    "i18n": true,
+    "type": "panel",
+    "items": {
+        "port": {
+            "type": "number",
+            "label": "Port",
+            "newLine": true
+        },
+        "mongodb": {
+            "type": "text",
+            "label": "MongoDB Connection String",
+            "newLine": true
+        }
+    }
+}
